@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/reqhelp/reqhelp",
+    "pages/result/result",
+    "pages/share/share",
+    "pages/help/help",
+    "pages/helpresult/helpresult",
+    "pages/rank/rank",
+    "pages/logs/logs",
+    "pages/count/count",
+    "pages/p_count/count",
+    "pages/p_logs/logs",
+    "pages/p_result/result",
+    "pages/plugin/plugin"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#06254c",
+    "navigationBarTitleText": "简单算24点",
+    "windowBackground": "#06254c",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
